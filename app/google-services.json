@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492408801001",
+    "firebase_url": "https://camera-7962b.firebaseio.com",
+    "project_id": "camera-7962b",
+    "storage_bucket": "camera-7962b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492408801001:android:2ab8e6d638129e8d",
+        "android_client_info": {
+          "package_name": "com.fayaz.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492408801001-mivpq0q0ecvotnm3l6sll08bmqh7s5qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fayaz.camera",
+            "certificate_hash": "9b7cbc94a29ae3a6017d8f34dc533d80bd4fc33b"
+          }
+        },
+        {
+          "client_id": "492408801001-lhpgf05vsr3bg2phdd3hr03865lq15ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZ1KYCue0oZnjQ3-ft94qHtR3U7PNPPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492408801001-lhpgf05vsr3bg2phdd3hr03865lq15ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
